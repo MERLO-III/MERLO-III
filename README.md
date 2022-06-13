@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MERLO-III
+- 👀 I’m interested in getting feedback on my source code.
+- 🌱 I’m currently learning HTML, CSS, & JAVAScript.
